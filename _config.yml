@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "David Jaggi"
   avatar           : "/assets/images/cover_image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Intersted in quantitative finance and machine learning."
   location         : "Zurich"
   email            :
   links:
